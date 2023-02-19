@@ -1,4 +1,4 @@
-export default function unique(array) {
+export function unique(array) {
   let uniqueArray = new Set(array)
   return uniqueArray
 }

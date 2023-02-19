@@ -1,0 +1,21 @@
+{
+  "name": "chewyscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chewyscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgallardox/chewyscript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgallardox/chewyscript/issues"
+  },
+  "homepage": "https://github.com/dgallardox/chewyscript#readme",
+  "type": "module"
+}

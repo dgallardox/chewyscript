@@ -1,3 +1,5 @@
-import unique from "./chewyscript";
+import * as chewy from "./chewyscript.js";
 
-console.log(unique([0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6]))
+let array = [0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6]
+
+console.log(chewy.unique(array))
