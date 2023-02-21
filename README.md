@@ -1,7 +1,7 @@
 # CHEWYSCRIPT
 Byte-size Javascript
 
-## chewy.unique() 
+## .unique() 
 - returns all unique instances in an array
 
 ## .log()

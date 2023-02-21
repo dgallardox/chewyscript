@@ -6,3 +6,4 @@ export function unique(array) {
 export function log(message) {
   console.log(message)
 }
+
