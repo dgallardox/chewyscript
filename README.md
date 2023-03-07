@@ -1,14 +1,14 @@
 # CHEWYSCRIPT
 Byte-size Javascript for developers :)
 
-## .unique() 
+### .unique() 
 - returns all unique instances in an array
 
-## .print()
+### .print()
 - logs the message to the console
 
-## .printErr()
+### .printErr()
 - logs the message to the console in bold red text
 
-## .printErr()
+### .printErr()
 - logs the message to the console in blue text
