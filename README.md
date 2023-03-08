@@ -10,5 +10,5 @@ Byte-size Javascript for developers :)
 ### .printErr()
 - logs the message to the console in bold red text
 
-## .printSucc()
+### .printSucc()
 - logs the message to the console in blue text
